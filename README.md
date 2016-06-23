@@ -37,3 +37,6 @@ those properties with other rules. Example:
 If you need the margin, you can add that class as well as the base one. Don't be afraid of
 having multiple css classes - it's more descriptive if you're just looking at the HTML
 anyway.
+
+This ties in with the previous rules - if all your rules have simple, single class
+selectors that just add properties, then you will never need more specific selectors.
